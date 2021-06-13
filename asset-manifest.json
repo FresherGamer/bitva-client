@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bitva-client/static/css/main.e8f34960.chunk.css",
-    "main.js": "/bitva-client/static/js/main.aa68bd80.chunk.js",
+    "main.js": "/bitva-client/static/js/main.59d6053b.chunk.js",
     "runtime-main.js": "/bitva-client/static/js/runtime-main.3db1b8ae.js",
     "static/css/2.92b453b4.chunk.css": "/bitva-client/static/css/2.92b453b4.chunk.css",
     "static/js/2.19183db0.chunk.js": "/bitva-client/static/js/2.19183db0.chunk.js",
@@ -29,6 +29,6 @@
     "static/css/2.92b453b4.chunk.css",
     "static/js/2.19183db0.chunk.js",
     "static/css/main.e8f34960.chunk.css",
-    "static/js/main.aa68bd80.chunk.js"
+    "static/js/main.59d6053b.chunk.js"
   ]
 }
