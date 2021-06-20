@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bitva-client/static/css/main.e8f34960.chunk.css",
-    "main.js": "/bitva-client/static/js/main.078211de.chunk.js",
+    "main.js": "/bitva-client/static/js/main.3f1459be.chunk.js",
     "runtime-main.js": "/bitva-client/static/js/runtime-main.3db1b8ae.js",
     "static/css/2.92b453b4.chunk.css": "/bitva-client/static/css/2.92b453b4.chunk.css",
     "static/js/2.1afacd0b.chunk.js": "/bitva-client/static/js/2.1afacd0b.chunk.js",
@@ -28,7 +28,7 @@
     "static/media/stars_in_eyes.f8430a59.png": "/bitva-client/static/media/stars_in_eyes.f8430a59.png",
     "static/media/story.a4de1007.png": "/bitva-client/static/media/story.a4de1007.png",
     "static/media/story_clan.0bfa20eb.png": "/bitva-client/static/media/story_clan.0bfa20eb.png",
-    "static/media/story_photo.b9fb05dc.png": "/bitva-client/static/media/story_photo.b9fb05dc.png",
+    "static/media/story_photo.f6f5d178.png": "/bitva-client/static/media/story_photo.f6f5d178.png",
     "static/media/story_win.2b845583.png": "/bitva-client/static/media/story_win.2b845583.png"
   },
   "entrypoints": [
@@ -36,6 +36,6 @@
     "static/css/2.92b453b4.chunk.css",
     "static/js/2.1afacd0b.chunk.js",
     "static/css/main.e8f34960.chunk.css",
-    "static/js/main.078211de.chunk.js"
+    "static/js/main.3f1459be.chunk.js"
   ]
 }
