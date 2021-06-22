@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/bitva-client/static/css/main.e8f34960.chunk.css",
-    "main.js": "/bitva-client/static/js/main.3f1459be.chunk.js",
+    "main.js": "/bitva-client/static/js/main.b9e02dee.chunk.js",
     "runtime-main.js": "/bitva-client/static/js/runtime-main.3db1b8ae.js",
     "static/css/2.92b453b4.chunk.css": "/bitva-client/static/css/2.92b453b4.chunk.css",
-    "static/js/2.1afacd0b.chunk.js": "/bitva-client/static/js/2.1afacd0b.chunk.js",
+    "static/js/2.90dbb0cc.chunk.js": "/bitva-client/static/js/2.90dbb0cc.chunk.js",
     "index.html": "/bitva-client/index.html",
-    "static/js/2.1afacd0b.chunk.js.LICENSE.txt": "/bitva-client/static/js/2.1afacd0b.chunk.js.LICENSE.txt",
+    "static/js/2.90dbb0cc.chunk.js.LICENSE.txt": "/bitva-client/static/js/2.90dbb0cc.chunk.js.LICENSE.txt",
     "static/media/1.c4415408.png": "/bitva-client/static/media/1.c4415408.png",
     "static/media/12.25d2614a.png": "/bitva-client/static/media/12.25d2614a.png",
     "static/media/2.b22e31e4.png": "/bitva-client/static/media/2.b22e31e4.png",
@@ -34,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.3db1b8ae.js",
     "static/css/2.92b453b4.chunk.css",
-    "static/js/2.1afacd0b.chunk.js",
+    "static/js/2.90dbb0cc.chunk.js",
     "static/css/main.e8f34960.chunk.css",
-    "static/js/main.3f1459be.chunk.js"
+    "static/js/main.b9e02dee.chunk.js"
   ]
 }
